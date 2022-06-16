@@ -1,2 +1,0 @@
-j
-new line added to 2.txt
